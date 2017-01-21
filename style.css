@@ -1,0 +1,46 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+#sticky {
+  position: fixed;
+  width: 100%;
+  background: rgba(255, 255, 255, .8);
+  text-align: center;
+  margin: 0 auto;
+  top: 0;
+  left: 0;
+  padding-bottom: 18px;
+}
+section {
+  margin-top: 70px;
+  height: 100%;
+}
+p {
+  margin-left: 1.66%;
+  font-size: 23px;
+  font-weight: 400;
+  display: inline-block;
+  text-align: center;
+}
+button {
+  margin-left: 1.66%;
+  padding: 10px 35px;
+  border: 2px solid #000;
+  background: none;
+  display: inline-block;
+  font-size: 14px;
+}
+button:hover {
+  background: #000;
+  color: #fff;
+}
+img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
+#from {
+  font-size: 14px;
+  display: block;
+  text-align: center;
+}
